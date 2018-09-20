@@ -1,0 +1,1 @@
+Repo for NodeJS producer and consumer apps on AMQ Streams (upstream project Strimzi)
